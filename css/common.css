@@ -1,0 +1,137 @@
+@charset "utf-8";
+.wrap {
+  width: 975px;
+  margin: 0 auto;
+}
+.fl {
+  float: left;
+}
+.fr {
+  float: right;
+}
+/* header */
+.common-header {
+  width: 100%;
+}
+.common-header-top {
+  width: 100%;
+  overflow: hidden;
+  zoom: 1;
+  background: #c81513;
+  height: 31px;
+  line-height: 31px;
+}
+.common-header-top h3 {
+  color: #ffffff;
+  font-size: 13px;
+  float: left;
+}
+.common-header-top .common-list ul {
+  overflow: hidden;
+  zoom: 1;
+}
+.common-header-top .common-list ul li {
+  float: left;
+  font-size: 12px;
+  color: #e62422;
+}
+.common-header-top .common-list ul li a {
+  color: #fff;
+  padding: 0 15px;
+}
+.common-header-top .common-list ul li a em {
+  color: #febf00;
+  font-weight: bold;
+}
+.common-header-top .common-list ul li a:hover {
+  color: #fd661f;
+}
+.common-header-bottom {
+  width: 100%;
+  overflow: hidden;
+  zoom: 1;
+  background: url(../images/common_header_bg.jpg);
+  background-repeat: repeat-x;
+  height: 89px;
+  line-height: 89px;
+}
+.common-header-bottom h1.logo {
+  padding-top: 20px;
+}
+.common-header-bottom .nav-list {
+  overflow: hidden;
+  zoom: 1;
+}
+.common-header-bottom .nav-list ul {
+  overflow: hidden;
+  zoom: 1;
+}
+.common-header-bottom .nav-list ul li {
+  float: left;
+  padding-left: 44px;
+}
+.common-header-bottom .nav-list ul li a {
+  font-size: 16px;
+  color: #313131;
+}
+.common-header-bottom .nav-list ul li a:hover {
+  color: #fd661f;
+}
+/* header */
+/* footer */
+.common-footer {
+  width: 100%;
+  background: #434343;
+  border-top: 5px solid #848484;
+  padding-top: 30px;
+  text-align: center;
+}
+.common-footer .common-footer-list {
+  overflow: hidden;
+  zoom: 1;
+  display: inline-block;
+  padding-bottom: 38px;
+}
+.common-footer .common-footer-list li {
+  float: left;
+  color: #9ea1a2;
+}
+.common-footer .common-footer-list li a {
+  color: #9ea1a2;
+  font-size: 12px;
+  padding: 0 20px;
+}
+.common-footer .common-footer-list li a:hover {
+  font-size: 12px;
+  color: #fd661f;
+}
+.common-footer .footer-info {
+  overflow: hidden;
+  zoom: 1;
+  display: inline-block;
+  padding-bottom: 53px;
+}
+.common-footer .footer-info .footer-logo {
+  float: left;
+}
+.common-footer .footer-info .footer-info-cont {
+  float: left;
+  text-align: left;
+  padding-left: 23px;
+}
+.common-footer .footer-info .footer-info-cont p {
+  font-size: 12px;
+  color: #9ea1a2;
+  line-height: 21px;
+}
+.common-footer .common-footer-copy {
+  height: 40px;
+  line-height: 40px;
+  background: #323232;
+  text-align: center;
+}
+.common-footer .common-footer-copy p {
+  color: #9ea1a2;
+  font-size: 12px;
+}
+/* footer */

@@ -1,0 +1,292 @@
+@charset "utf-8";
+@import "common.css";
+/* index-main */
+.index-main .index-banner {
+  width: 1440px;
+  height: 602px;
+  margin: 0 auto;
+  overflow: hidden;
+  zoom: 1;
+}
+.index-main .index-container {
+  padding: 6px 0 22px 0;
+}
+.index-main .index-container .index-list-left,
+.index-main .index-container .index-list-right {
+  overflow: hidden;
+  zoom: 1;
+}
+.index-main .index-container .index-list-left {
+  width: 620px;
+}
+.index-main .index-container .index-list-left .index-left-cont {
+  width: 100%;
+  overflow: hidden;
+  zoom: 1;
+}
+.index-main .index-container .index-list-left .index-left-cont ul {
+  overflow: hidden;
+  zoom: 1;
+}
+.index-main .index-container .index-list-left .index-left-cont ul li {
+  width: 50%;
+  background: url(../images/index_list_sub.jpg) no-repeat left center;
+  padding-left: 13px;
+  border-bottom: 1px dotted #d5d5d5;
+  height: 31px;
+  line-height: 31px;
+  float: left;
+}
+.index-main .index-container .index-list-left .index-left-cont ul li a {
+  font-size: 12px;
+  color: #777777;
+}
+.index-main .index-container .index-list-left .index-left-cont ul li a p {
+  float: left;
+}
+.index-main .index-container .index-list-left .index-left-cont ul li a p em {
+  padding-left: 30px;
+}
+.index-main .index-container .index-list-left .index-left-cont ul li a span.time {
+  float: right;
+  color: #b0b0b0;
+  padding-right: 15px;
+}
+.index-main .index-container .index-list-left .index-left-cont ul li a:hover {
+  color: #fd661f;
+}
+.index-main .index-container .index-list-right {
+  width: 315px;
+}
+.index-main .index-container .index-list-right .index-right-cont .subLi {
+  width: 100%;
+  overflow: hidden;
+  zoom: 1;
+  padding-bottom: 4px;
+}
+.index-main .index-container .index-list-right .index-right-cont .subLi a {
+  display: block;
+  overflow: hidden;
+  zoom: 1;
+}
+.index-main .index-container .index-list-right .index-right-cont .subLi a:hover {
+  color: #fd661f;
+}
+.index-main .index-container .index-list-right .index-right-cont .subLi img {
+  float: left;
+  padding-right: 15px;
+}
+.index-main .index-container .index-list-right .index-right-cont .subLi .list {
+  width: 195px;
+  float: left;
+}
+.index-main .index-container .index-list-right .index-right-cont .subLi .list h3 {
+  font-size: 18px;
+  color: #cb0302;
+  padding-bottom: 10px;
+}
+.index-main .index-container .index-list-right .index-right-cont .subLi .list p {
+  font-size: 12px;
+  color: #777777;
+  line-height: 25px;
+}
+.index-main .index-container .index-list-right .index-right-cont ul {
+  overflow: hidden;
+  zoom: 1;
+}
+.index-main .index-container .index-list-right .index-right-cont ul li {
+  width: 100%;
+  background: url(../images/index_list_sub.jpg) no-repeat left center;
+  padding-left: 13px;
+  border-bottom: 1px dotted #d5d5d5;
+  height: 32px;
+  line-height: 32px;
+  float: left;
+}
+.index-main .index-container .index-list-right .index-right-cont ul li a {
+  font-size: 12px;
+  color: #777777;
+}
+.index-main .index-container .index-list-right .index-right-cont ul li a:hover {
+  color: #fd661f;
+}
+.index-main .index-container .index-list-right .index-right-cont ul li a p {
+  float: left;
+}
+.index-main .index-container .index-list-right .index-right-cont ul li a span.time {
+  float: right;
+  color: #b0b0b0;
+}
+.index-main .index-container .index-list-title {
+  height: 40px;
+  line-height: 40px;
+}
+.index-main .index-container .index-list-title h3 {
+  float: left;
+}
+.index-main .index-container .index-list-title a {
+  float: right;
+}
+.index-main .index-link {
+  height: 74px;
+  line-height: 74px;
+  background: #f1f1f1;
+  border: 1px solid #dcdcdc;
+  padding-left: 30px;
+}
+.index-main .index-link .index-link-img {
+  float: left;
+  padding-top: 14px;
+}
+.index-main .index-link ul {
+  float: left;
+}
+.index-main .index-link ul li {
+  float: left;
+  font-size: 12px;
+  color: #d5d5d5;
+}
+.index-main .index-link ul li a {
+  padding: 0 14px;
+  color: #5e5e5e;
+}
+.index-main .index-link ul li a:hover {
+  color: #fd661f;
+}
+/* index-main */
+/* answer-main */
+.answer-main {
+  padding: 28px 0 35px 0;
+}
+.answer-main .answer-main-container {
+  border: 1px solid #e4e4e4;
+  padding: 30px 20px 92px 24px;
+}
+.answer-main .answer-main-container .answer-title {
+  width: 929px;
+  height: 33px;
+}
+.answer-main .answer-main-container .answer-list {
+  padding-left: 57px;
+}
+.answer-main .answer-main-container .answer-list .answer-li {
+  overflow: hidden;
+  zoom: 1;
+  padding-top: 34px;
+}
+.answer-main .answer-main-container .answer-list .answer-li .answer-q {
+  overflow: hidden;
+  zoom: 1;
+}
+.answer-main .answer-main-container .answer-list .answer-li .answer-q img {
+  float: left;
+  padding-right: 20px;
+}
+.answer-main .answer-main-container .answer-list .answer-li .answer-q p {
+  float: left;
+  width: 90%;
+  line-height: 30px;
+  padding-bottom: 10px;
+  color: #c81513;
+  border-bottom: 1px solid #efefef;
+}
+.answer-main .answer-main-container .answer-list .answer-li .answer-a {
+  overflow: hidden;
+  zoom: 1;
+  padding-top: 20px;
+}
+.answer-main .answer-main-container .answer-list .answer-li .answer-a img {
+  float: left;
+  padding-right: 20px;
+}
+.answer-main .answer-main-container .answer-list .answer-li .answer-a p {
+  float: left;
+  width: 90%;
+  line-height: 30px;
+  padding-bottom: 10px;
+  color: #575656;
+  border-bottom: 1px solid #efefef;
+}
+/* answer-main */
+/* advertise-main */
+.advertise-main {
+  padding: 28px 0 35px 0;
+}
+.advertise-main .advertise-main-container {
+  border: 1px solid #e4e4e4;
+  padding: 30px 20px 92px 24px;
+}
+.advertise-main .advertise-main-container .advertise-title {
+  width: 929px;
+  padding-bottom: 17px;
+  overflow: hidden;
+  zoom: 1;
+}
+.advertise-main .advertise-cont .advertise-ht {
+  width: 929px;
+  height: 44px;
+  line-height: 44px;
+  background: url(../images/advertise_ht.jpg) no-repeat;
+}
+.advertise-main .advertise-cont .advertise-ht p {
+  float: left;
+  font-size: 18px;
+  color: #3a3a3a;
+  padding: 0 100px;
+}
+.advertise-main .advertise-cont .advertise-ht p.on {
+  color: #fff;
+}
+.advertise-main .advertise-cont .advertise-info {
+  overflow: hidden;
+  zoom: 1;
+  padding-top: 30px;
+}
+.advertise-main .advertise-cont .advertise-info .info-title {
+  height: 75px;
+  line-height: 75px;
+  overflow: hidden;
+  zoom: 1;
+  border-bottom: 1px solid #e8e8e8;
+}
+.advertise-main .advertise-cont .advertise-info .info-title h3 {
+  background: url(../images/advertise_icon.jpg) no-repeat left center;
+  font-size: 20px;
+  color: #2a3231;
+  float: left;
+  padding-left: 73px;
+  font-weight: bold;
+}
+.advertise-main .advertise-cont .advertise-info .info-title p {
+  float: right;
+  font-size: 14px;
+  color: #575656;
+  padding-right: 5px;
+}
+.advertise-main .advertise-cont .advertise-info .info-cont .info-list {
+  overflow: hidden;
+  zoom: 1;
+}
+.advertise-main .advertise-cont .advertise-info .info-cont .info-list .info-li {
+  width: 100%;
+  overflow: hidden;
+  zoom: 1;
+  padding-top: 36px;
+}
+.advertise-main .advertise-cont .advertise-info .info-cont .info-list h3 {
+  float: left;
+  color: #575656;
+  font-size: 16px;
+  line-height: 40px;
+}
+.advertise-main .advertise-cont .advertise-info .info-cont .info-list p {
+  float: left;
+  font-size: 12px;
+  color: #575656;
+  line-height: 40px;
+}
+.advertise-main .advertise-cont .advertise-info .info-cont .info-button {
+  text-align: center;
+  padding-top: 30px;
+}
+/* advertise-main */
